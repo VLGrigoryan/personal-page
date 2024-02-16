@@ -14,7 +14,7 @@ function App({data}) {
         <Switch location={location.state?.background || location}>
           <Route
             exact
-            path="/personal-page"
+            path="/"
             render={() => <HomePage data={data} />}
           />
           <Route

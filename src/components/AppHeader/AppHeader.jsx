@@ -26,7 +26,7 @@ const AppHeader = () => {
         >
           <li className={AHStyles.navListItem}>
             <NavLink
-              to="/personal-page"
+              to="/"
               exact
               className={`${AHStyles.navLink} pt-4 pb-4 pr-5 pl-5 mr-2`}
               activeClassName={AHStyles.activeLink}
@@ -37,7 +37,7 @@ const AppHeader = () => {
               <Icon
                 type="Feather"
                 size={25}
-                isActive={location.pathname === "/personal-page" ? true : false}
+                isActive={location.pathname === "/" ? true : false}
               />
               <span
                 className={`${AHStyles.linkText}text ${
