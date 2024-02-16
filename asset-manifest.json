@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-page/static/css/main.9e69827e.css",
-    "main.js": "/personal-page/static/js/main.6fbcff88.js",
+    "main.js": "/personal-page/static/js/main.bc6f1823.js",
     "static/js/787.a372b053.chunk.js": "/personal-page/static/js/787.a372b053.chunk.js",
     "static/media/3.png": "/personal-page/static/media/3.a570245e63eed6a4d3e3.png",
     "static/media/1.png": "/personal-page/static/media/1.6f21e480bd2c83b07469.png",
@@ -44,19 +44,19 @@
     "static/media/BEM.svg": "/personal-page/static/media/BEM.44bd3cf938ad56b95002.svg",
     "static/media/area.svg": "/personal-page/static/media/area.f647f0bcf3e149ae4dad.svg",
     "static/media/GitHub.svg": "/personal-page/static/media/GitHub.b5509a3e220f4eed781e.svg",
-    "index.html": "/personal-page/index.html",
     "static/media/Azure.svg": "/personal-page/static/media/Azure.bd7495b3291b50ee9ee5.svg",
+    "index.html": "/personal-page/index.html",
     "static/media/mail.svg": "/personal-page/static/media/mail.e70d7c4662473f00fe69.svg",
     "static/media/HTML.svg": "/personal-page/static/media/HTML.f921a96dcc91493743d8.svg",
     "static/media/Figma.svg": "/personal-page/static/media/Figma.7829faf7e9016e4ae0e8.svg",
     "static/media/Webpack.svg": "/personal-page/static/media/Webpack.17ed2a8e96fc81be9dba.svg",
     "static/media/VSCode.svg": "/personal-page/static/media/VSCode.f7d026cf5d7f8035ab4b.svg",
     "main.9e69827e.css.map": "/personal-page/static/css/main.9e69827e.css.map",
-    "main.6fbcff88.js.map": "/personal-page/static/js/main.6fbcff88.js.map",
+    "main.bc6f1823.js.map": "/personal-page/static/js/main.bc6f1823.js.map",
     "787.a372b053.chunk.js.map": "/personal-page/static/js/787.a372b053.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e69827e.css",
-    "static/js/main.6fbcff88.js"
+    "static/js/main.bc6f1823.js"
   ]
 }
