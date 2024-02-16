@@ -1,0 +1,23 @@
+.content{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+    row-gap: 40px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.item{
+    width: 380px;
+    overflow: hidden;
+    text-align: center;
+    font-family: "Lato Light";
+    font-size: 16.0252px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+
+}
+

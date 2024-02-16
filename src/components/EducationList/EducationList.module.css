@@ -1,0 +1,88 @@
+.educationHeading {
+    font-size: 16.3627px;
+    letter-spacing: 0.818136px;
+    margin-bottom: 4.67506px;
+    line-height: 1.2;
+    font-family: Lato;
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    break-inside: auto;
+    white-space: normal !important;
+    word-break: break-word !important;
+}
+
+.educationInfo {
+    font-size: 16.3627px;
+    letter-spacing: 0.818136px;
+    margin-bottom: 4.67506px;
+    line-height: 1.2;
+    font-family: Lato;
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    break-inside: auto;
+    white-space: normal !important;
+    word-break: break-word !important;
+}
+
+.placeName {
+    box-sizing: border-box;
+    outline: none !important;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+
+}
+
+.educationDescriptionText {
+    text-decoration: none;
+    color: inherit;
+    display: inline;
+    margin-top: 20px;
+    font-family: "Lato Light";
+    font-size: 14.0252px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.140252px;
+}
+
+
+.description {
+    /* color: rgb(0, 0, 0); */
+    font-family: "Lato Light";
+    font-size: 14.0252px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.140252px;
+}
+
+
+
+.list {
+    list-style: none;
+}
+
+.listHeading {
+    font-family: "Lato SemiBold";
+    font-size: 18.7003px;
+    letter-spacing: 2.80504px;
+    text-transform: uppercase;
+    line-height: 1.5;
+    position: relative;
+    padding-left: 40px;
+}
+
+
+.description {
+    /* color: rgb(0, 0, 0); */
+    font-family: "Lato Light";
+    font-size: 14.0252px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.140252px;
+}
