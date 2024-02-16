@@ -1,0 +1,185 @@
+.name {
+  color: rgb(255, 255, 255);
+  word-break: break-word;
+  padding-top: 0px;
+  font-size: 59.6071px;
+  font-weight: bold;
+  line-height: 1;
+  font-family: "Lato Bold";
+  letter-spacing: 0.631134px;
+  text-transform: capitalize;
+  margin: 0;
+}
+
+.titleName {
+  font-family: Lato;
+  font-size: 16.3627px;
+  letter-spacing: 4.58156px;
+  text-transform: uppercase;
+  word-break: break-word;
+  margin-top: 17.5315px;
+  margin-bottom: 0px;
+  color: rgb(255, 255, 255);
+}
+
+.iconPhone {
+  /* background-image: url(./image/phone.svg); */
+  height: 25px;
+  width: 25px;
+  background-size: contain;
+}
+
+
+
+.link {
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.linkHover {
+  opacity: 1;
+  color: black;
+}
+
+.line {
+  height: 2px;
+  width: 100%;
+  background-color: rgb(67, 66, 68);
+  display: block;
+  margin: auto 40px;
+}
+
+.infoListItem {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+
+.description {
+  /* color: rgb(0, 0, 0); */
+  font-family: "Lato Light";
+  font-size: 14.0252px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.140252px;
+}
+
+
+
+.fsxBgL {
+  font-family: "Lato Light";
+  font-size: 14.0252px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.140252px;
+}
+
+.heading {
+  font-size: 16.3627px;
+  letter-spacing: 0.818136px;
+  margin-bottom: 4.67506px;
+  line-height: 1.2;
+  /* color: rgb(0, 0, 0); */
+  font-family: Lato;
+  position: relative;
+  margin: 0px;
+  padding: 0px;
+  break-inside: auto;
+  white-space: normal !important;
+  word-break: break-word !important;
+}
+
+
+
+
+
+
+.list {
+  list-style: none;
+}
+
+.listHeading {
+  font-family: "Lato SemiBold";
+  font-size: 18.7003px;
+  letter-spacing: 2.80504px;
+  text-transform: uppercase;
+  line-height: 1.5;
+  position: relative;
+  padding-left: 40px;
+}
+
+.page {
+  position: relative;
+  height: inherit;
+  width: 950px;
+  min-height: 1312.52px;
+  display: flex;
+  margin: 60px auto;
+  font-family: TTCommons, "Roboto light", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-rendering: optimizeLegibility;
+  text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+  -moz-osx-font-smoothing: grayscale;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  background-color: white;
+  color: black;
+  border-radius: 0 50px 50px 0;
+  box-shadow: 3px 0px 9px 6px rgb(244 240 240);
+}
+
+
+
+
+.kkZsuV {
+  z-index: 99;
+  break-inside: auto;
+  padding: 26.8816px 42.0756px 29.2191px;
+  position: relative;
+  cursor: unset !important;
+}
+
+
+.personalInfo {
+  padding: 14.0252px 0 14.0252px 28.0504px;
+  /* width: 623px; */
+  direction: ltr;
+  background-color: rgb(67, 66, 68);
+  margin-top: 40px;
+  color: white;
+}
+
+.name {
+  color: rgb(255, 255, 255);
+  word-break: break-word;
+  padding-top: 0px;
+  font-size: 59.6071px;
+  font-weight: bold;
+  line-height: 1;
+  font-family: "Lato Bold";
+  letter-spacing: 0.631134px;
+  text-transform: capitalize;
+  margin: 0;
+}
+
+.titleName {
+  font-family: Lato;
+  font-size: 16.3627px;
+  letter-spacing: 4.58156px;
+  text-transform: uppercase;
+  word-break: break-word;
+  margin-top: 17.5315px;
+  margin-bottom: 0px;
+  color: rgb(255, 255, 255);
+}
